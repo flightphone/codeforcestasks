@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
-//https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A
-//https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B
-//https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C
-
 
 
 const int MAXN = 100000;

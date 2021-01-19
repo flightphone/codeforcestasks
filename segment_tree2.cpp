@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <algorithm>
 using namespace std;
-//https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C
-//https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B
-//https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/D
+
 
 const int MAXN = 100000;
 long long t[4 * MAXN];
