@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-    long long n = 100000000000000;
-    printf("%lld", n);
+    long long n = 2162934098;
+    printf("%ld", n);
 
     
 
